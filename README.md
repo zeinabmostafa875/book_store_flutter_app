@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book App
 
 ## Overview
@@ -47,3 +48,6 @@ A Flutter mobile application for managing and exploring books.
 ## License
 
 [Specify your license]
+=======
+# book_store_flutter_app
+>>>>>>> 241f6e505e9e342606b7a8348dd8739895585523
